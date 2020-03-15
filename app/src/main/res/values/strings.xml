@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Student List</string>
+    <string name="student_list">Student List</string>
+    <string name="add_student">ADD ANOTHER STUDENT</string>
+    <string name="full_time">Full time?</string>
+    <string name="student_name">Name</string>
+    <string name="student_grade">Grade</string>
+    <string name="submit">SUBMIT</string>
+</resources>
